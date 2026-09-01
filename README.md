@@ -2,6 +2,7 @@
 <p align="center"><img width="480" height="350" alt="giphy" src="https://github.com/user-attachments/assets/96af29ad-8141-4755-b16d-8f7539833294" /><p/>
 <p align="center"><small> (𝖈𝖗𝖊𝖉𝖎𝖙𝖘 𝖙𝖔 𝖙𝖍𝖊 𝖆𝖗𝖙𝖎𝖘𝖙(𝖘) 𝖋𝖔𝖗 𝖙𝖍𝖊 𝖎𝖑𝖑𝖚𝖘𝖙𝖗𝖆𝖙𝖎𝖔𝖓𝖘 𝖔𝖓 𝖒𝖞 𝖕𝖗𝖔𝖋!) <p/></small>
   ‧͙⁺˚*･༓☾ 
+  
 <small> ╰➜ 𝖖𝖚𝖆𝖈𝖐𝖊𝖗𝖘/𝖈𝖆𝖑𝖑𝖎/𝖕𝖔𝖙𝖈𝖍𝖎 </small>
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
