@@ -1,6 +1,6 @@
 <p align="center"> -ˋˏ ༻𖤓༺ ˎˊ- </p>
 <p align="center"><img width="480" height="350" alt="giphy" src="https://github.com/user-attachments/assets/96af29ad-8141-4755-b16d-8f7539833294" /><p/>
-
+<p align="center"> credits to the artists for the art on my prof!! i couldn't find the proper artists to credit since i randomly came across it. <p/>
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
