@@ -1,4 +1,4 @@
-<small> test </small>
+<p align="center"><small> test </small></p>
 
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
