@@ -1,6 +1,8 @@
 <p align="center"> -ˋˏ ༻𖤓༺ ˎˊ- </p>
 <p align="center"><img width="480" height="350" alt="giphy" src="https://github.com/user-attachments/assets/96af29ad-8141-4755-b16d-8f7539833294" /><p/>
-<p align="center"> (𝚌𝚛𝚎𝚍𝚒𝚝𝚜 𝚝𝚘 𝚝𝚑𝚎 𝚊𝚛𝚝𝚒𝚜𝚝𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏!! 𝚒 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚙𝚛𝚘𝚙𝚎𝚛 𝚊𝚛𝚝𝚒𝚜𝚝𝚜 𝚝𝚘 𝚌𝚛𝚎𝚍𝚒𝚝 𝚜𝚒𝚗𝚌𝚎 𝚒 𝚛𝚊𝚗𝚍𝚘𝚖𝚕𝚢 𝚌𝚊𝚖𝚎 𝚊𝚌𝚛𝚘𝚜𝚜 𝚒𝚝.) <p/>
+<small><p align="center"> (𝚌𝚛𝚎𝚍𝚒𝚝𝚜 𝚝𝚘 𝚝𝚑𝚎 𝚊𝚛𝚝𝚒𝚜𝚝𝚜 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚊𝚛𝚝 𝚘𝚗 𝚖𝚢 𝚙𝚛𝚘𝚏!! 𝚒 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚙𝚛𝚘𝚙𝚎𝚛 𝚊𝚛𝚝𝚒𝚜𝚝𝚜 𝚝𝚘 𝚌𝚛𝚎𝚍𝚒𝚝 𝚜𝚒𝚗𝚌𝚎 𝚒 𝚛𝚊𝚗𝚍𝚘𝚖𝚕𝚢 𝚌𝚊𝚖𝚎 𝚊𝚌𝚛𝚘𝚜𝚜 𝚒𝚝.) <p/></small>
+# ‧͙⁺˚*･༓☾ 
+<small> ╰➜ 𝖖𝖚𝖆𝖈𝖐𝖊𝖗𝖘/𝖈𝖆𝖑𝖑𝖎/𝖕𝖔𝖙𝖈𝖍𝖎 </small>
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
