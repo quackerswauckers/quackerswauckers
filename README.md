@@ -1,4 +1,4 @@
-<small> This text will be smaller. </small>
+<small> test </small>
 
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
