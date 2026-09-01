@@ -1,4 +1,5 @@
 <p align="center"> -ˋˏ ༻𖤓༺ ˎˊ- </p>
+<img width="480" height="350" alt="giphy" src="https://github.com/user-attachments/assets/96af29ad-8141-4755-b16d-8f7539833294" />
 
 <!--
 **quackerswauckers/quackerswauckers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
